@@ -1,0 +1,22 @@
+{
+  "name": "color-picker",
+  "version": "1.0.0",
+  "description": "color picking tool",
+  "main": "color-picker.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryel/color-picker.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "Christian Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryel/color-picker/issues"
+  },
+  "homepage": "https://github.com/Ryel/color-picker#readme"
+}
